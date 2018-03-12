@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="need_a_new_account">Need a new account?</string>
+    <string name="display_name_hint">Display Name</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="logout_menu_option">Logout</string>
+    <string name="start_signin">ALREADY HAVE AN ACCOUNT</string>
+    <string name="login_title">Login to your Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="display_name">Display Name</string>
+    <string name="change_image_settings">CHANGE IMAGE</string>
+    <string name="change_status_settings">CHANGE STATUS</string>
+    <string name="status_settings"><![CDATA[Hi there! I\'m using bubu&me]]></string>
+    <string name="b_status_save">SAVE CHANGES</string>
+    <string name="et_status_enter_new">Enter new status...</string>
+    <string name="profile_b_send_friend_request">SEND FRIEND REQUEST</string>
+    <string name="profile_tv_status">Status</string>
+    <string name="profile_tv_display_name">Display Name</string>
+    <string name="b_profile_decline_friend_request">DECLINE FRIEND REQUEST</string>
+    <string name="profile_b_cancel_friend_request">CANCEL FRIEND REQUEST</string>
+    <string name="profile_b_accept_friend_request">ACCEPT FRIEND REQUEST</string>
+    <string name="profile_b_unfriend">UN-FRIEND</string>
+</resources>
